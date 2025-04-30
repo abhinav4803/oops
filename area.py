@@ -16,3 +16,5 @@ rect = Rectangle(10, 5)
 # Print area and perimeter
 print("Area of rectangle:", rect.area())
 print("Perimeter of rectangle:", rect.perimeter())
+
+
